@@ -1,6 +1,5 @@
 # Social-Media-Links
-http://127.0.0.1:5500/Social-media-links/index.html
-
+![Social Media Links](Screenshot.png)
 
 🔗 Social Media Links (HTML + CSS)
 
